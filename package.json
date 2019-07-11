@@ -3,7 +3,7 @@
     "publisher": "westmec",
     "displayName": "West Mec Visual Studio Code Extention Pack",
     "description": "Extention pack for 101, 102, 201 and 202 code classes.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.25.1"
     },
