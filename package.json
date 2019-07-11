@@ -3,7 +3,7 @@
     "publisher": "westmec",
     "displayName": "West Mec Visual Studio Code Extention Pack",
     "description": "Extention pack for 101, 102, 201 and 202 code classes.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.36.0"
     },
@@ -32,6 +32,8 @@
         "christian-kohler.path-intellisense",
         "christian-kohler.npm-intellisense",
         "humao.rest-client",
+        "dbaeumer.vscode-eslint",
+        "monokai.theme-monokai-pro-vscode",
         "wix.vscode-import-cost"
     ]
 }

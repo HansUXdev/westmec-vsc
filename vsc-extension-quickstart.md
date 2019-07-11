@@ -18,4 +18,11 @@
 ## Install your extension
 
 * To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
-* To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
+* To share your extension with the world, read on [docs](https://code.visualstudio.com/docs) about publishing an extension.
+
+* Create some dumb [azure organization](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/create-organization?view=azure-devops) because vsc made by ms.
+
+* 
+ Or go a link that is actually helpful like https://code.visualstudio.com/api/references/extension-manifest.
+
+
