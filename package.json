@@ -1,5 +1,6 @@
 {
     "name": "westmec-vsc",
+    "publisher": "westmec",
     "displayName": "West Mec Visual Studio Code Extention Pack",
     "description": "Extention pack for 101, 102, 201 and 202 code classes.",
     "version": "0.0.1",
@@ -9,6 +10,10 @@
     "categories": [
         "Extension Packs"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/HansUXdev/westmec-vsc"
+    },
     "extensionPack": [ 
         "streetsidesoftware.code-spell-checker",
         "msjsdiag.debugger-for-chrome",
