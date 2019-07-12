@@ -1,9 +1,9 @@
 {
     "name": "westmec-vsc",
     "publisher": "westmec",
-    "displayName": "West Mec Visual Studio Code Extention Pack",
-    "description": "Extention pack for 101, 102, 201 and 202 code classes.",
-    "version": "0.0.3",
+    "displayName": "West Mec Visual Studio Code Extension Pack",
+    "description": "Extension pack for 101, 102, 201 and 202 code classes.",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.25.1"
     },
@@ -27,13 +27,13 @@
         "wayou.vscode-todo-highlight",
         "xabikos.JavaScriptSnippets",
         "dsznajder.es7-react-js-snippets",
+        "antmdvs.vscode-react-hooks-snippets",
         "WallabyJs.quokka-vscode",
         "CoenraadS.bracket-pair-colorizer",
         "christian-kohler.path-intellisense",
         "christian-kohler.npm-intellisense",
         "humao.rest-client",
         "dbaeumer.vscode-eslint",
-        "monokai.theme-monokai-pro-vscode",
-        "wix.vscode-import-cost"
+        "monokai.theme-monokai-pro-vscode"
     ]
 }

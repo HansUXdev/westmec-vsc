@@ -12,7 +12,6 @@ Some extensions for the students.
 * [Chrome Debuger](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Live server stuff. 
 * [CSS Class Completion](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - Helps add css classes included in projects. 
-* [Github](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - For people who are scared of terminal... 
 * [Github PR Req](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - For people who are scared of terminal... 
 * [autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer) - This way we dont need it in a build process or bundler.
 * [code runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Runs basically any code.
