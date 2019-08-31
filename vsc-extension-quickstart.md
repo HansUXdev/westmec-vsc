@@ -25,4 +25,9 @@
 * 
  Or go a link that is actually helpful like https://code.visualstudio.com/api/references/extension-manifest.
 
+## dealing with shitsoft when you need to update the extention
+1. read [outdated docs with occasional 404](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
 
+2. maybe this link wont change by ms to set [new token](https://dev.azure.com/ball820/_usersSettings/tokens)
+
+run `npm run publish` if your token isn't disabled.
