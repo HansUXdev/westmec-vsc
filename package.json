@@ -3,13 +3,17 @@
     "publisher": "westmec",
     "displayName": "West Mec Visual Studio Code Extension Pack",
     "description": "Extension pack for 101, 102, 201 and 202 code classes.",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "engines": {
         "vscode": "^1.25.1"
     },
     "categories": [
         "Extension Packs"
     ],
+    "scripts": {
+        "git": "git status && git add -A && git commit -m \"changed these files\" && git push",
+        "pub": "node ./node_modules/vscode/bin/compile -watch -p ./"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/HansUXdev/westmec-vsc"
