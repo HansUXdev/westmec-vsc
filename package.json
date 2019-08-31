@@ -3,7 +3,7 @@
     "publisher": "westmec",
     "displayName": "West Mec Visual Studio Code Extension Pack",
     "description": "Extension pack for 101, 102, 201 and 202 code classes.",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.25.1"
     },
@@ -17,6 +17,8 @@
     "extensionPack": [ 
         "streetsidesoftware.code-spell-checker",
         "msjsdiag.debugger-for-chrome",
+        "aaron-bond.better-comments",
+        "yzhang.markdown-all-in-one",
         "GitHub.vscode-pull-request-github",
         "formulahendry.code-runner",
         "Zignd.html-css-class-completion",
@@ -28,12 +30,14 @@
         "xabikos.JavaScriptSnippets",
         "dsznajder.es7-react-js-snippets",
         "antmdvs.vscode-react-hooks-snippets",
-        "WallabyJs.quokka-vscode",
         "CoenraadS.bracket-pair-colorizer",
         "christian-kohler.path-intellisense",
         "christian-kohler.npm-intellisense",
         "humao.rest-client",
         "dbaeumer.vscode-eslint",
-        "monokai.theme-monokai-pro-vscode"
+        "jamesqquick.web-boilerplate",
+        "jeremyrajan.vscode-lebab",
+        "pkosta2005.heroku-command",
+        "dracula-theme.theme-dracula"
     ]
 }
